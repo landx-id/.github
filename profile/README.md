@@ -10,4 +10,4 @@ So we have obligations to give back to the community, even in a very small contr
 4. [PgBouncer Chart for GKE](https://github.com/landx-id/pgbouncer-chart-gke)
 5. and many more..
 
-Use it freely, and Happy coding! 
+Use them freely, and Happy coding! 
